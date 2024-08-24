@@ -1,0 +1,6 @@
+langchain
+langchain_community
+sqlalchemy
+streamlit
+langchain_openai
+pathlib
